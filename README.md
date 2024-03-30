@@ -1,6 +1,8 @@
 # spregsdmxt
 Maximum Likelihood Estimation Spatial Error Panel Regression Use spregsemxt With STATA 18
 
+https://www.youtube.com/watch?v=XvEDx8Wn53A
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
